@@ -1,0 +1,8 @@
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\bin\Release\Simple64.exe.config
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\bin\Release\Simple64.exe
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\bin\Release\Simple64.pdb
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\obj\Release\Simple64.Form1.resources
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\obj\Release\Simple64.Properties.Resources.resources
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\obj\Release\Simple64.csproj.GenerateResource.Cache
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\obj\Release\Simple64.exe
+c:\users\rekke\onedrive\documents\visual studio 2017\Projects\Simple64\Simple64\obj\Release\Simple64.pdb
